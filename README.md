@@ -4,7 +4,11 @@
 ## 功能
 一个能删选内容的下拉框
 
-## 参入参数格式
+## 效果图
+![效果图](https://github.com/orangekingliness/image-folder/blob/master/vue-filterSelect/1.png)
+![效果图](https://github.com/orangekingliness/image-folder/blob/master/vue-filterSelect/2.png)
+
+## 实例
 ```
 // filterCondition 为筛选条件, 格式为[{id:1,label:'待审核'}，{id:2,label:'全部'}]
 // filterData 筛选的数据，格式为[{dataId:1,dataName:'sdk-ase-dd'},...]
@@ -43,4 +47,3 @@ methods: {
 
 ```
 
-## 效果图
