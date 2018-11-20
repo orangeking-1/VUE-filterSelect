@@ -32,7 +32,7 @@ data () {
         id: 2,
         label: '待审核'
       }],
-    filterBridgeData: [],  
+    filterBridgeData: [{dataId:1,dataName:'sdk-ase-dd'}，{dataId:2,dataName:'sdk-ase-dd'}],  
   }
 }
 
