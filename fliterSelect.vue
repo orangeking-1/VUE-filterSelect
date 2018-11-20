@@ -1,9 +1,6 @@
 <!--
-import func from './vue-temp/vue-editor-bridge';
-import func from './vue-temp/vue-editor-bridge';
   - selectFilter
-  - @copyright: ©2018 Guangdong Sun Railway Information Technology,Inc. All rights reserved.
-  - @author: Wang GuangHang <wangguanghang@sunengineering.cn>
+  - @author: Wang GuangHang <wangguanghang@163.com>
   -->
 <template>
 <div class="w-select">
