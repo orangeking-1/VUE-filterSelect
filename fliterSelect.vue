@@ -15,7 +15,7 @@
       placeholder="请选择内容"
       clearable
       v-model="selectValue"
-      :disabled="true">
+      :readonly="true">
     </el-input>
   </div>
   <div class="w-select-con">
